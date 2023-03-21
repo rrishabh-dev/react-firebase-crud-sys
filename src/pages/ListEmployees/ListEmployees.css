@@ -1,0 +1,19 @@
+p {
+  margin: 0px;
+}
+
+hr {
+  margin: 0;
+  opacity: 1;
+}
+
+.sub-nav-bar {
+  display: flex;
+  font-weight: bolder;
+  margin: 8px 8px 8px 14px;
+  justify-content: space-between;
+}
+
+.add-btn {
+  margin-right: 8px;
+}
