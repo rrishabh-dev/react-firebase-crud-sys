@@ -1,0 +1,9 @@
+.login-container {
+  top: 50%;
+  left: 50%;
+  margin: 1rem;
+  width: 400px;
+  position: absolute;
+  border: 1px solid #dfdfdf;
+  transform: translate(-50%, -50%);
+}

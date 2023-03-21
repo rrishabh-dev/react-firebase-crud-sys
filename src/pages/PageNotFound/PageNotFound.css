@@ -1,0 +1,7 @@
+.not-found-container {
+  left: 50%;
+  margin-top: 1rem;
+  width: 40%;
+  position: absolute;
+  transform: translate(-50%);
+}

@@ -1,0 +1,15 @@
+hr {
+  margin: 0;
+  opacity: 1;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.sub-nav-bar {
+  display: flex;
+  font-weight: bolder;
+  margin: 8px 8px 8px 14px;
+  justify-content: space-between;
+}
